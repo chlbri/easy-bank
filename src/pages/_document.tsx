@@ -25,7 +25,7 @@ export default class MyDocument extends Document {
         <Head>
           <link rel="icon" type="image/x-icon" href="favicon.ico" />
         </Head>
-        <body>
+        <body className="m-3">
           <Main />
           <NextScript />
         </body>

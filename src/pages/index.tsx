@@ -1,5 +1,7 @@
+import Home from './Home';
+
 function About(): JSX.Element {
-  return <div className='m-3'>About</div>;
+  return <Home/>;
 }
 
 export default About;
