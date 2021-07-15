@@ -1,8 +1,8 @@
 {
   "name": "gitpod-typescript",
   "version": "0.0.0",
-  "description": "GitPod for Typescript",
-  "repository": "https://github.com/react-if/nexts",
+  "description": "Easy Bank",
+  "repository": "https://github.com/chlbri/easy-bank",
   "author": "chlbri <bri_lvi@icloud.com>",
   "private": true,
   "scripts": {
